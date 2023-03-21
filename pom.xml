@@ -39,6 +39,11 @@
             <version>3.2.2.0</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>org.codehaus.plexus</groupId>
+            <artifactId>plexus-component-annotations</artifactId>
+            <version>1.5.5</version>
+        </dependency>
     </dependencies>
 
 </project>
